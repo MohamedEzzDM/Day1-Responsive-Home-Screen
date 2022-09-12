@@ -16,6 +16,7 @@ class MyApp extends StatelessWidget {
 
 
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Inspiration app',
       theme: themData,
       home: const HomeScreen(),
