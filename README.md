@@ -1,4 +1,4 @@
-# challenge_day1 flutter home screen UI Design
+# challenge_day1 responsive home screen UI Design
 
 A new Flutter project.
 
