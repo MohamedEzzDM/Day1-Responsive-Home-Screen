@@ -5,6 +5,6 @@ A new Flutter project.
 
 ## ScreenShots
 
-<img src="assets/screenshot/screen1.png" height="500em" /> &nbsp; <img src="assets/screenshot/screen2.png" height="500em" />
+<img src="assets/screenshots/screen1.png" height="500em" /> &nbsp; <img src="assets/screenshots/screen2.png" height="500em" />
 
 
